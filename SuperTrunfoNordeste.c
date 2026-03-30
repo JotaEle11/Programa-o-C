@@ -124,6 +124,7 @@ int main (){
 
                   if (atributo1 == atributo2){
                     printf("\nVocê escolheu o mesmo atributo! Volte do inicio e tente novamente!\n");
+                    return 0;
                   } else {
                     switch (atributo2){
 
@@ -239,6 +240,7 @@ int main (){
 
                   if (atributo1 == atributo2){
                     printf("\nVocê escolheu o mesmo atributo! Volte do inicio e tente novamente!\n");
+                    return 0;
                   } else {
                     switch (atributo2){
 
